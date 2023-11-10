@@ -1,0 +1,90 @@
+[{
+  "price": "1785",
+  "primaryURL":"./img/p1.jpg",
+  "Address":"7527w 140th street, op, 66223 ",
+  "id": "7001001",
+  "bds":"2",
+  "ba":"2",
+  "sqft":"1,120",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p2.jpg",
+  "id": "7001002",
+  "price": "1,954",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"3",
+  "ba":"2",
+  "sqft":"1,500",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p3.jpg",
+  "id": "7001003",
+  "price": "1,565",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"2",
+  "ba":"2",
+  "sqft":"1,255",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p4.jpg",
+  "id": "7001004",
+  "price": "2,150",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"3",
+  "ba":"2",
+  "sqft":"1,750",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p5.jpg",
+  "id": "7001005",
+  "price": "875",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"1",
+  "ba":"1",
+  "sqft":"900",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p6.jpg",
+  "id": "7001006",
+  "price": "1,500",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"1",
+  "ba":"1",
+  "sqft":"1,100",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p7.jpg",
+  "id": "7001007",
+  "price": "1,005",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"1",
+  "ba":"1",
+  "sqft":"1,100",
+  "agent":"Manish",
+  "type":"House"
+},
+{
+  "primaryURL": "./img/p8.jpg",
+  "id": "7001008",
+  "price": "1,100",
+  "Address": "7527w 140th street, op, 66223",
+  "bds":"1",
+  "ba":"1",
+  "sqft":"1,200",
+  "agent":"Manish",
+  "type":"House"
+}
+]
+
